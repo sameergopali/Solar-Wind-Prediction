@@ -1,4 +1,4 @@
-# Solar Wind Prediction using CNN
+# Solar Wind Prediction using LSTM
 
 ## Description
 
