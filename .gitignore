@@ -1,0 +1,8 @@
+*.csv
+*.log
+*.pyc
+__pycache__/
+data/processed
+data/raw
+save/log
+save/model
