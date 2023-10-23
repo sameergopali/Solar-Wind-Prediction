@@ -1,4 +1,4 @@
-# Solar Wind Prediction using LSTM
+# Solar Wind Prediction
 
 ## Description
 
